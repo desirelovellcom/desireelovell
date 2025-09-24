@@ -1,6 +1,5 @@
-# Liquid Glass
-
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+#desireelovell web3
+Desiree Lovell Website FREE trade open source common cube proof of benefit
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/commercialwest1031-9337s-projects/v0-liquid-glass)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/BUgDoTeFNbv)
