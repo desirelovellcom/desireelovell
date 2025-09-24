@@ -13,17 +13,33 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/commercialwest1031-9337s-projects/v0-liquid-glass](https://vercel.com/commercialwest1031-9337s-projects/v0-liquid-glass)**
+(https://vercel.com/commercialwest1031-9337s-projects/v0-liquid-glass)
 
-## Build your app
+https://v0-liquid-glass-beta-eight.vercel.app/
+https://youtu.be/fxmXYfHTCwU?si=p477XFdguT2j1hrw
+Emad Mostaque is the founder of Intelligent Internet (https://www.ii.inc). Access Emad's White papers: 
 
-Continue building your app on:
+https://ii.inc/web/blog/post/master-plan
+https://ii.inc/web/whitepaper
+https://www.symbioism.com/
 
-**[https://v0.app/chat/projects/BUgDoTeFNbv](https://v0.app/chat/projects/BUgDoTeFNbv)**
+Salim Ismail is the founder of OpenExO
 
-## How It Works
+Dave Blundin is the founder of Link Ventures
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+--
+
+Chapters: 
+
+00:00 - Intro
+01:30 - Emad Explains The Intelligent Internet
+04:50 - The Future of Money 
+13:14 - The Coming Tensions Between AI and Energy
+39:03 - Governance and Ethics in AI
+44:21 - Universal Basic AI (UBAI)
+45:56 - The Future of Work and Human Purpose
+46:39 - The Great Decoupling and Job Automation
+56:11 - The Role of Open Source in AI Governance
+59:22 - UBI
+01:16:16 - Minting Money and Digital Currencies
+01:23:44 - Final Thoughts and Future Directions
